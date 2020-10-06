@@ -8,7 +8,7 @@
 
 * Graduando em Redes de computadores
 
-💻☕Estudo java para desenvolvimento full stack mobile e web, Spring Boot hibernate, APIs REST, JPA, Hibernate, noSQL/SQL, JSP dentre outras tecnologias que acompanham a linguagem Java. ☕
+💻☕Estudo java para desenvolvimento full stack mobile e web, Spring Boot Hibernate, APIs REST, JPA,JSP e um stack de linguagem Java. ☕
 
 
 * [Curso de Programação PHP Avançado](http://www.versatildf.com.br/conteudo_programatico/PHP_Basico_Avancado.pdf) –Html5 + Css3 + JavaScript + OO + SQL/Mysql + Programação PHP e Orientação a Objeto- Versatil-df-2019
